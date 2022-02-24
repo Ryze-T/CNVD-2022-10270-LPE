@@ -1,0 +1,9 @@
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\bin\x64\Debug\sunloginLPE.exe.config
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\bin\x64\Debug\sunloginLPE.exe
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\bin\x64\Debug\sunloginLPE.pdb
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.csproj.SuggestedBindingRedirects.cache
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.exe
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.pdb
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.Properties.Resources.resources
+C:\Users\test\Desktop\Code\sunloginLPE\sunloginLPE\sunloginLPE\obj\x64\Debug\sunloginLPE.csproj.GenerateResource.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sunloginLPE", "sunloginLPE\sunloginLPE.csproj", "{B9D73D1C-9711-4C02-87C0-743E2B8E623E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Debug|x64.ActiveCfg = Debug|x64
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Debug|x64.Build.0 = Debug|x64
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Release|x64.ActiveCfg = Release|x64
+		{B9D73D1C-9711-4C02-87C0-743E2B8E623E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D889B15-7E48-4459-8DD6-A58713701360}
+	EndGlobalSection
+EndGlobal
